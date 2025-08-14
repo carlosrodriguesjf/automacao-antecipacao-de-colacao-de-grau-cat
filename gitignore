@@ -1,0 +1,39 @@
+# =========================================
+# Gitignore para Automação SEI em Python
+# =========================================
+
+# Arquivos de credenciais e dados sensíveis
+token.json
+credentials.json
+.env
+
+# Pasta com arquivos de apoio
+arquivos de apoio/
+**/arquivos de apoio/
+
+# Pastas e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Ambientes virtuais
+venv/
+ENV/
+.env/
+
+# Arquivos temporários de IDEs
+.vscode/
+.idea/
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints
+
+# Pastas e arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de demonstração/imagens
+imagens/
+**/imagens/
