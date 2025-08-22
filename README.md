@@ -1,5 +1,4 @@
-
-# 📄 Automação de Protocolos no Sistema Eletrônico de Informações (SEI)
+# 📄 Automação de Registros de Antecipação de Colação de Grau no Sistema Eletrônico de Informações (SEI)
 
 ## 👤 Autor e Contato
 - **Nome**: Carlos Eduardo Rodrigues  
@@ -108,7 +107,7 @@ O foco é reduzir o tempo de execução, minimizar erros manuais e padronizar o 
 
 4. **Execute**
    ```bash
-   python scripts/main.py
+   python main.py
    ```
 
 ---
@@ -122,17 +121,15 @@ O foco é reduzir o tempo de execução, minimizar erros manuais e padronizar o 
 ---
 
 ## 🎥 Demonstração
-*(Insira aqui um GIF ou link para vídeo do script rodando, ex: YouTube)*  
+https://youtu.be/JYG14fLnzW4 
 
 
 ---
 
 ## 🔮 Melhorias Futuras
 - Interface gráfica amigável.  
-- Integração com outros sistemas da instituição.  
-- Logs de execução mais detalhados.  
-- Adaptação para diferentes tipos de processos no SEI.  
-
+- Criação de logs de execução 
+ 
 
 ---
 
